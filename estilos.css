@@ -1,0 +1,34 @@
+body {
+    background-image: url(http://www.cienciasecognicao.org/arteciencia/wp-content/uploads/2014/09/background-texturas-1363105476-1024x640.jpg);
+    background-size:auto 100vh;
+    height:100vh;
+    font-family: Verbena;
+  }
+  .menu{
+    background-color:#EEAD2D;
+  }
+  .menu li {
+    list-style: none;
+    font-family: Arial;
+   }
+  .menu ul{
+    display:flex;
+    justify-content:space-around;
+  }
+  a{ 
+    text-decoration:none;
+  }
+  a:hover {
+    text-decoration:underline;
+  }
+  .site-title{
+      text-align:center;
+      color:black;
+      font-size:70px;
+      text-style:bold;
+  }
+  .site-subtitle{
+    text-align:center;
+    font-style:bold;
+    font-size: 25px;
+  }
